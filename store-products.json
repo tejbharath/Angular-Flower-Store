@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Red Rose",
+    "description": "Red Rose is rarity but Love is not",
+    "price": 50.00,
+    "reviews": []
+  },
+  {
+    "name": "White Rose",
+    "description": "Symbol of Peace and Prospherity",
+    "price": 22.90,
+    "reviews": []
+  },
+  {
+    "name": "Yellow Rose",
+    "description": "Friendship lasts forever",
+    "price": 12.00,
+    "reviews": []
+  }
+]
